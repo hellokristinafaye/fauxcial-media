@@ -9,6 +9,7 @@ Technologies Used:
 - HTML
 - CSS
 - Google Fonts (CDN)
+- Font Awesome (CDN)
 
 Features:
 
