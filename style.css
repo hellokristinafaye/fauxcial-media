@@ -171,5 +171,13 @@ nav {
     overflow: hidden;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+.event p {
+    font-size: 12px;
+}
+.event a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #1876f2;
+}
 
 /* Right Sidebar End */
