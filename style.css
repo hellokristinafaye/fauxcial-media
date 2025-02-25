@@ -89,7 +89,6 @@ nav {
     position: sticky;
     top: 70px;
     align-self: flex-start;
-    height: 100vh;
 }
 .right-sidebar {
     background: #cbdffa;
@@ -97,7 +96,6 @@ nav {
     position: sticky;
     top: 70px;
     align-self: flex-start;
-    height: 100vh;
 }
 .main-content {
     flex-basis: 47%;
