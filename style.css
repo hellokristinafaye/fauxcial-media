@@ -331,7 +331,14 @@ nav {
 }
 /* Post Input End */
 
-/* Feed Post Start */
-
-/* Feed Post End */
+/* Post Feed Start */
+.post-container {
+    width: 100%;
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px;
+    color: #626262;
+    margin: 20px 0;
+}
+/* Post Feed End */
 /* Main Section End */
