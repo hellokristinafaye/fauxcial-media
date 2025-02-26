@@ -390,5 +390,8 @@ nav {
 .post-profile-icon i {
     font-size: 15px;
 }
+.post-row a {
+    color: #9a9a9a;
+}
 /* Post Feed End */
 /* Main Section End */
