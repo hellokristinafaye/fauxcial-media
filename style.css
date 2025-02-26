@@ -482,6 +482,7 @@ nav {
     padding: 2px 3px;
     cursor: pointer;
     display: flex;
+    transition: padding-left .5s, background .5s;
 }
 #dark-btn span {
     width: 18px;
@@ -491,7 +492,8 @@ nav {
     display: inline-block;
 }
 #dark-btn.dark-btn-on {
-    
+    padding-left: 23px;
+    background: #000;
 }
 
 /* Dark Mode Btn End */
