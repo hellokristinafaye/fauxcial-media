@@ -345,5 +345,18 @@ nav {
     font-size: 13px;
     color: #9a9a9a;
 }
+.post-text {
+    color: #9a9a9a;
+    margin: 15px 0;
+    font-size: 15px;
+}
+.post-text span {
+    color: #626262;
+    font-weight: 500;
+}
+.post-text a {
+    color: #1876f2;
+    text-decoration: none;
+}
 /* Post Feed End */
 /* Main Section End */
