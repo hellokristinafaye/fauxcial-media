@@ -470,3 +470,28 @@ nav {
     color: #626262;
 }
 /* Drop Down Menu End */
+
+/* Dark Mode Btn Start */
+#dark-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: #ccc;
+    width: 45px;
+    border-radius: 15px;
+    padding: 2px 3px;
+    cursor: pointer;
+    display: flex;
+}
+#dark-btn span {
+    width: 18px;
+    height: 18px;
+    background: #fff;
+    border-radius: 50%;
+    display: inline-block;
+}
+#dark-btn.dark-btn-on {
+    
+}
+
+/* Dark Mode Btn End */
