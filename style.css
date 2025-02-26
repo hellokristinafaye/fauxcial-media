@@ -393,5 +393,26 @@ nav {
 .post-row a {
     color: #9a9a9a;
 }
+
+.load-more-btn {
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 1px solid #9a9a9a;
+    color: #626262;
+    background: transparent;
+    border-radius: 4px;
+}
 /* Post Feed End */
 /* Main Section End */
+
+/* Footer Start */
+.footer {
+    text-align: center;
+    color: #9a9a9a;
+    padding: 10px 0 20px;
+    font-size: 13px;
+}
+/* Footer End */
+
