@@ -292,7 +292,8 @@ nav {
     margin-right: 10px;
 }
 .user-profile p {
-    margin-bottom: -5px;
+    /* margin-bottom: -5px; */
+    margin-bottom: -16px;
     font-weight: 500;
     color: #626262;
 }
@@ -339,6 +340,10 @@ nav {
     padding: 20px;
     color: #626262;
     margin: 20px 0;
+}
+.user-profile span {
+    font-size: 13px;
+    color: #9a9a9a;
 }
 /* Post Feed End */
 /* Main Section End */
