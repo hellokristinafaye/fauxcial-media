@@ -429,4 +429,9 @@ nav {
     top: 108%;
     right: 5%;
 }
+.user-profile a {
+    font-size: 12px;
+    color: #1876f2;
+    text-decoration: none;
+}
 /* Drop Down Menu End */
