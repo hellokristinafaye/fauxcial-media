@@ -206,4 +206,14 @@ nav {
     width: 40px; 
     border-radius: 50%;
 }
+.online-list .online {
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+/* next rule is moving the green online dot to to the bottom right corner of the online convo profile pics */
+.online-list .online::after {
+    top: unset;
+    bottom: 5px;
+}
 /* Right Sidebar End */
