@@ -291,6 +291,13 @@ nav {
     border-radius: 50%;
     margin-right: 10px;
 }
-
+.user-profile p {
+    margin-bottom: -5px;
+    font-weight: 500;
+    color: #626262;
+}
+.user-profile small {
+    font-size: 12px;
+}
 /* Post Input End */
 /* Main Section End */
