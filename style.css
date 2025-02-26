@@ -454,4 +454,13 @@ nav {
     margin-right: 10px;
     border-radius: 50%;
 }
+
+.setting-links a {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    color: #626262;
+}
 /* Drop Down Menu End */
