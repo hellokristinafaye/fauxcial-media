@@ -312,5 +312,22 @@ nav {
     background: transparent;
     resize: none;
 }
+
+.add-post-links {
+    display: flex;
+    margin-top: 10px;
+}
+.add-post-links a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #626262;
+    margin-right: 30px;
+    font-size: 13px;
+}
+.add-post-links a img {
+    width: 20px;
+    margin-right: 10px;
+}
 /* Post Input End */
 /* Main Section End */
