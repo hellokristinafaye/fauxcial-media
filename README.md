@@ -10,6 +10,9 @@ Technologies Used:
 - CSS
 - Google Fonts (CDN)
 - Font Awesome (CDN)
+- JavaScript
+  - menu open/close toggle
+  - dark/light mode toggle
 
 Features:
 
