@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 
+/* Dark Theme Start */
 :root {
     --body-color: #efefef;
     --nav-color: #1876f2;
@@ -15,6 +16,7 @@
     --nav-color: #000;
     --bg-color: #000;
 }
+/* Dark Theme End */
 
 
 
@@ -508,7 +510,7 @@ nav {
 }
 #dark-btn.dark-btn-on {
     padding-left: 23px;
-    background: #000;
+    background: #0a0a0a;
 }
 
 /* Dark Mode Btn End */
