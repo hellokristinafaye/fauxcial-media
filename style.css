@@ -543,5 +543,12 @@ nav {
     margin-right: 20px;
     border-radius: 6px;
 }
+.pd-row div h3 {
+    font-size: 25px;
+    font-weight: 600;
+}
+.pd-row div p {
+    font-size: 13px;
+}
 
 /* Profile Page End */
