@@ -579,4 +579,14 @@ nav {
 .pd-right {
     text-align: right;
 }
+.pd-right a {
+    background: #e4e6eb;
+    border-radius: 3px;
+    padding: 12px;
+    display: inline-flex;
+    margin-top: 30px;
+}
+.pd-right a img {
+    width: 20px;
+}
 /* Profile Page End */
