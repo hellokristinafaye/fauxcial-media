@@ -576,4 +576,7 @@ nav {
     background: #e4e6eb;
     color: #000;
 }
+.pd-right {
+    text-align: right;
+}
 /* Profile Page End */
