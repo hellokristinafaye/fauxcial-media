@@ -550,5 +550,9 @@ nav {
 .pd-row div p {
     font-size: 13px;
 }
-
+.pd-row div img {
+    width: 25px;
+    border-radius: 50%;
+    margin-top: 12px;
+}
 /* Profile Page End */
