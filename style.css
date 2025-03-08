@@ -589,4 +589,18 @@ nav {
 .pd-right a img {
     width: 20px;
 }
+
+
+.profile-info {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.info-col {
+    flex-basis: 33%;
+}
+.post-col {
+    flex-basis: 65%;
+}
 /* Profile Page End */
