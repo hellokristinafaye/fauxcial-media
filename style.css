@@ -663,6 +663,10 @@ nav {
     width: 100%;
     cursor: pointer;
 }
+
+.profile-intro p {
+    font-size: 14px; 
+}
 /* left-col end */
 
 /* Profile Page End */
