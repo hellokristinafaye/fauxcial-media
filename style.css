@@ -652,6 +652,17 @@ nav {
     color: #1876f2;
     font-size: 14px;
 }
+
+.photo-box {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 10px;
+    margin-top: 15px;
+}
+.photo-box div img {
+    width: 100%;
+    cursor: pointer;
+}
 /* left-col end */
 
 /* Profile Page End */
