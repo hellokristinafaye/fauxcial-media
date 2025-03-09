@@ -619,7 +619,10 @@ nav {
     margin: 10px 0;
     font-size: 15px;
 }
-
+.intro-text img {
+    width: 15px;
+    margin-bottom: -3px;
+}
 
 /* left-col end */
 
