@@ -676,6 +676,15 @@ nav {
 .friends-box div img {
     width: 100%;
     cursor: pointer;
+    padding-bottom: 20px;
+}
+.friends-box div {
+    position: relative;
+}
+.friends-box p {
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 /* left-col end */
 
