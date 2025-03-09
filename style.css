@@ -611,6 +611,14 @@ nav {
     margin-bottom: 20px;
     border-radius: 4px;
 }
+.profile-intro h3 {
+    font-weight: 600;
+}
+.intro-text {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 15px;
+}
 
 
 /* left-col end */
