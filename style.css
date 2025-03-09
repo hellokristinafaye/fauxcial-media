@@ -604,5 +604,15 @@ nav {
     flex-basis: 65%;
 }
 
+/* left-col start */
+.profile-intro {
+    background: var(--bg-color);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+
+/* left-col end */
 /* pausing for the night. we're at 28:49 in the tutorial */
 /* Profile Page End */
